@@ -18,11 +18,16 @@ Any citizen who is at least sixteen (16) years old may submit stories. Serious s
 
 From time to time there are serious articles about disputes between characters be they part of the government or part of the citizenry. These articles should focus on the facts and limit creative writing to a minimum. These stories should help inform the citizens of Los Santos of important pieces of information and happenings in the city. Stories that reference actual citizens, active departments of the government, or active jobs fall in to this category and should be written with care. 
 
-When writing stories about these topics, keep them simple and stay on the facts and quotes from people who participated in the event. Avoid supposition and creative liberty. These stories are touching on characters lives and may cause more harm if care is not taken. The only exception here is when the piece is obviously of a jokular nature.
+When writing stories about these topics, keep them simple and stay on the facts and quotes from citizens who participated in the event. Avoid supposition and creative liberty. These stories are touching on characters lives and may cause more harm if care is not taken. The only exception here is when the piece is obviously of a jokular nature.
 
 ### Jokular content
 
-As we aim to provide a valid mix of entertainment and serious news we want to include topics on the gossip, entertainment, and unique culture of our city. Stories of this kind are lighthearted and meant to entertain the reader. They may include active people, locations, or entities within the city. Feel free to take more creative liberty in these stories. The goal is to have fun.
+As we aim to provide a valid mix of entertainment and serious news we want to include topics on the gossip, entertainment, and unique culture of our city. Stories of this kind are lighthearted and meant to entertain the reader. They may include active and/or inactive citizens, locations, or entities within the city. Feel free to take more creative liberty in these stories. The goal is to have fun.
+
+
+### Active vs Inactive?
+
+An active citizen, place, or organization is one that is active in the city. Places such as Benny's shop, a citizen employed by Benny's, or the LSPD are exampels of active entities in the game. Inactive entities are ones that may/may not actually exist in the city. Organizations such as the Los Santos Fire Department (LSFD), which would exist in an IRL city but do not exist in ours. When you're reporting on an active entity be sure to get your facts straight and keep creative elements to a minimum. 
 
 ## How to Report?
 
