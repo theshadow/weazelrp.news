@@ -26,13 +26,13 @@ As we aim to provide a valid mix of entertainment and serious news we want to in
 
 ## How to Report?
 
-First and foremost. He said, she said is the name of the game. Even if you're witness to an event take the time to question witnesses in the area. Speak to the police, the mayor, and persons of interest. Once you have the core set of facts which may include all of the the Five-Y's (who, what, where, when, why). While photos are not a requirement use them if they provide context or value to the story.
-
-Then start a rough draft. Review it two or three times for syntax, grammar, and wording. When you feel your story is at a good place submit it for review. Then wait. It could take minutes, hours, or days for your story to be published. There's a lot going on in the city and the front page has limited space. Be prepared for feedback and additional questions. 
+First and foremost. He said, she said is the name of the game. Even if you're witness to an event take the time to question witnesses in the area. Speak to the citizen witnesses, police, the mayor, and persons of interest. Once you have the core set of facts which may include all of the the Five-Y's (who, what, where, when, and why). Then start a rough draft. Review it two or three times for syntax, grammar, and wording. While photos are not a requirement use them if they provide context or value to the story.
 
 When speaking with witnesses and experts on a topic try to remain calm and collected. Keep questions about facts on point and simple. Use open ended questions to gather more details. Don't be afraid to ask the hard question; however once the interviewee deems the interview over leave them be. **DO NOT** harass citizens. 
 
-## Formatting your article
+When you feel your story is at a good place submit it for review. Then wait. It could take minutes, hours, or days for your story to be published. There's a lot going on in the city and the front page has limited space. Be prepared for feedback and additional questions. 
+
+## Formatting your story
 
 First, if you're going to use media (photos, videos) be sure to upload them to a public space for linking. YouTube and Imgur are great places. For imgur be sure to grab the link directly to the image. You can obtain this link by clicking on an image to zoom in and then right-clicking and selecting "Copy image location". The URL should look like _i.imgur.com/XQQB508.jpg_. Also note that image file size matters. Try to use a file image quality that provides details but doesn't create large images that require seconds to download. Large images slow down the browsing experience on Weazel News RP.
 
