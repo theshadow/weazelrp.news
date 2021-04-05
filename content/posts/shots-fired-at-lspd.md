@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Shots Fired at LSPD
 author: Tony Hills
 date: 2021-04-05
@@ -15,4 +15,4 @@ thumbnail: https://i.imgur.com/XCWSfAu.jpg
 
 <img src="https://i.imgur.com/XQQB508.jpg" alt="Mr. Pratt is seen unconcsious in the vehicle after the officer opened fire" title="Here Mr. Pratt is seen unconcsious in the vehicle after the officer opened fire" class="photo-right"/> It was at this time that a cadet approached Mr. Pratt and asked him to stand down and surrender peacefully to the officers on site. Mr. Pratt then made way towards his vehicle and entered it despite repeated requests from the officer. Once in the vehicle the police officer drew his weapon and warned Mr. Pratt to step out of the vehicle. When Mr. Pratt refused to comply the officer fired a single shot into the vehicle severely wounding Mr. Pratt. 
 
-<img src="https://i.imgur.com/XCWSfAu.jpg" alt="Keebo Pratt about to receive medical attention from EMS" title="Keebo Pratt about to receive medical attention from EMS" class="photo-left"/> EMS was then called onto the scene and began to administer aid to the victim. Sources at the Pill Box reported that the patient made a speedy recovery after surgery to remove the bullet. When the officer, a new cadet to the Los Santos police force, who fired the shot was questioned by Weazel News, they stated that it wasn't intentional and that he chose the incorrect tool from his gear due to the confusing placement based on SOP (standard operating procedure). Weazel News reached out to Chief D. Taylor for comment on this story who had this to say: 
+<img src="https://i.imgur.com/XCWSfAu.jpg" alt="Keebo Pratt about to receive medical attention from EMS" title="Keebo Pratt about to receive medical attention from EMS" class="photo-left"/> EMS was then called onto the scene and began to administer aid to the victim. Sources at the Pill Box reported that the patient made a speedy recovery after surgery to remove the bullet. When the officer, a new cadet to the Los Santos police force, who fired the shot was questioned by Weazel News, they stated that it wasn't intentional and that he chose the incorrect tool from his gear due to the confusing placement based on SOP (standard operating procedure). Weazel News reached out to Chief D. Taylor and is awaiting comment.
