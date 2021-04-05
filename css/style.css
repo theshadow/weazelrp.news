@@ -174,12 +174,16 @@ tr:nth-child(even) { background: #eee }
   margin-left: 0;
 }
 
+main p img.photo {
+  margin: 10px;
+  max-width: 40%;
+  max-height: 40%;
+}
+
 main p img.photo-left {
   float: left;
-  margin: 10px;
 }
 
 main p .photo-right {
   float: right;
-  margin: 10px;
 }
