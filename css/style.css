@@ -173,3 +173,13 @@ tr:nth-child(even) { background: #eee }
   width: 50%;
   margin-left: 0;
 }
+
+.photo-left {
+  float: left;
+  margin: 10px;
+}
+
+.photo-right {
+  float: right;
+  margin: 10px;
+}
