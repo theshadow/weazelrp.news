@@ -1,10 +1,4 @@
 ---
-title: "Homelessness"
-date: 2021-04-05T19:04:08-06:00
-draft: true
----
-
----
 draft: false
 title: Homelessness Plagues the City
 author: Tony Hills
