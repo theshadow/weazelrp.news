@@ -6,7 +6,7 @@ date: 2021-04-05
 categories:
   - Life and Styles
 tags:
-  - 	Los Santos
+  - Los Santos
   - Homelessness
   - Citizens
 thumbnail: https://i.imgur.com/G7cpHhD.jpg
