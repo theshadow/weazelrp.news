@@ -11,7 +11,7 @@ tags:
   - Safety
 ---
 
-Last night the Law Firm of Trust, LLP delivered served the LSPD. The claim stated that the law firm was representing the locals of Los Santos in a class action law suit against the LSPD. Weazel News was able to uncover that over twenty-two locals were signed on to the suit with more yet to be confirmed or named. The claim went on further to state that the LSPD was being charged with several acts of reckless driving, wonton disregard for public safety, and a general lack of value towards locals life. When speaking with a senior partner from the firm Raymond Trust, they stated that "The LSPD is out of control. Based on the evidence we have we are claiming that they responsible for over 33.5 million dollars in property and phsyical damage through out the city." 
+Last night the Law Firm of Trust, LLP served the LSPD. The claim stated that the law firm was representing the locals of Los Santos in a class action law suit against the LSPD. Weazel News was able to uncover that over twenty-two locals were signed on to the suit with more yet to be confirmed or named. The claim went on further to state that the LSPD was being charged with several acts of reckless driving, wonton disregard for public safety, and a general lack of value towards locals life. When speaking with a senior partner from the firm Raymond Trust, they stated that "The LSPD is out of control. Based on the evidence we have we are claiming that they responsible for over 33.5 million dollars in property and phsyical damage through out the city." 
 
 Weazel News was able to obtain a copy of the Intent to Sue which can be seen below, Weazel News will continue to inform the public on this case and are busy reaching out to the LSPD for comment.
 
@@ -20,7 +20,7 @@ Weazel News was able to obtain a copy of the Intent to Sue which can be seen bel
                                                    LETTER OF INTENT TO SUE
 
 Raymond Trust of Trust LLP. Law Firm
-150 Main Street, Los Santos, 32311
+150 Main Street, Los Santos, San Andreas 32311
 1(888)555-1234
 rtrust@trustllp.com
 
