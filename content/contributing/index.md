@@ -51,7 +51,7 @@ A story is broken down in to two parts. First is a section called **frontmatter*
 
 <dl>
 	<dt>draft<dt>
-	<dd>A boolean value of "true" or "false". Stories MUST have this value and it MUST be "false". Failure to do so will result in your story being rejected.</dd>
+	<dd>A boolean value of "true" or "false". Stories MUST have this value and it MUST be "true". Failure to do so will result in your story being rejected.</dd>
 	<dt>title<dt>
 	<dd>A short summary of the story. It should be clear, conscise, and eye catching. Serious stories should avoid click-baity titles.</dd>
 	<dt>author<dt>
@@ -66,7 +66,7 @@ A story is broken down in to two parts. First is a section called **frontmatter*
 
 #### template
 
-<pre lang="markdown">
+```markdown
 ---
 draft: true
 title: Shots Fired at LSPD
@@ -85,7 +85,7 @@ thumbnail: https://i.imgur.com/XCWSfAu.jpg
 &lt;img src="https://i.imgur.com/XQQB508.jpg" alt="Mr. [LNAME] is seen unconcsious in the vehicle after the officer opened fire" title="Here Mr. [LNAME] is seen unconcsious in the vehicle after the officer opened fire" class="photo photo-right"/&gt; It was at this time that a cadet approached Mr. [LNAME] and asked him to stand down and surrender peacefully to the officers on site. Mr. [LNAME] then made way towards his vehicle and entered it despite repeated requests from the officer. Once in the vehicle the police officer drew his weapon and warned Mr. [LNAME] to step out of the vehicle. When Mr. [LNAME] refused to comply the officer fired a single shot into the vehicle severely wounding Mr. [LNAME]. 
 
 &lt;img src="https://i.imgur.com/XCWSfAu.jpg" alt="Keebo [LNAME] about to receive medical attention from EMS" title="Keebo [LNAME] about to receive medical attention from EMS" class="photo photo-left"/&gt; EMS was then called onto the scene and began to administer aid to the victim. Sources at the Pill Box reported that the patient made a speedy recovery after surgery to remove the bullet. When the officer, a new cadet to the Los Santos police force, who fired the shot was questioned by Weazel News, they stated that it wasn't intentional and that he chose the incorrect tool from his gear due to the confusing placement based on SOP (standard operating procedure). Weazel News reached out to Chief D. Taylor for comment on this story who had this to say: "This was an unfortunate situation where the LSPD is evalauting training procedures. The LSPD will make sure that cadets receive the proper training on their equipment so that they may appropriately apply non-lethal force."
-</pre>
+```
 
 #### embeding images
 
