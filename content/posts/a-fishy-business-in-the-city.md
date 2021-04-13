@@ -119,3 +119,46 @@ proudly announced the end of the first competition there were twenty participant
     </tr>
   </tbody>
 </table>
+
+### Day Two
+
+<table>
+  <thead>
+    <tr>
+      <th>Citizen</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mercy Chu</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>Tommy Longschlong</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>Anton Poo</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Aston Martin</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Trevor Lahey</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Tony Pool</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Zip Aremandanchano</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+
